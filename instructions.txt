@@ -1,0 +1,14 @@
+Le but du jeu est de transformer ce site purement statique en projet vue.js 
+Un soin particulier sera donc apporté au découpage en composant, a l'injection des dépendances éventuelles et à la récupération
+des datas via l'api "Magic The Gathering" 
+
+- Prenez bien le temps de valider des étapes simples ( vue create, ajout de module et npm run serve)
+- Déclarez bien vos routes et testez les!
+- Ne découpez pas trop dans un premier temps, d'abord une version fonctionnelle et ensuite une version "optimisée"
+- vous êtes complétement libres de rajouter/éditer/nettoyer les css ou le layout de base tant que celui-ci reste fonctionnel
+
+RENDU : 
+L'idéal c'est de me communiquer l'adress d'un repo github (en .git), attention à ce qu'il soit bien public 
+Sinon, un .zip avec nom-prenom en prenant bien soin de ne pas y mettre le dossier node_modules qui est toujours une grosse pomme de terre inutile.
+
+

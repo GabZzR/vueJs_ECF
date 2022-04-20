@@ -1,0 +1,8 @@
+all cards 
+GET : https://api.magicthegathering.io/v1/cards 
+
+one card 
+GET : https://api.magicthegathering.io/v1/cards/5f8287b1-5bb6-5f4c-ad17-316a40d5bb0c
+
+Documentation si besoin : 
+https://docs.magicthegathering.io/#documentationgetting_started
